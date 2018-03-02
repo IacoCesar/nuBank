@@ -1,8 +1,8 @@
 # Solutions
-**Application**
+**Application:**
 The application use a pure component concept based on recompose using a graphql technology to consult the api data.
 
-**Preparing the Project**
+**Preparing the Project:**
 To run install the node dependencies located in the project root folder using the commands below
 
 - **If you are using npm**, run npm install
