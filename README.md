@@ -18,8 +18,8 @@ To run install the node dependencies located in the project root folder using th
 - **graphql**, a query language for APIs created by Facebook.
 
 # environment variables
-- `API_URL`, graphql api to be used on `Apollo Provider`
-- `API_AUTH`, api authorization to be used on `Apollo Provider`
+- `API_URL`, graphql api to be used on `graphql HttpLink uri`
+- `API_AUTH`, api authorization to be used on `graphql HttpLink Authorization`
 
 # notes
 - **react-native run-<"android or ios">**
