@@ -22,6 +22,5 @@ To run install the node dependencies located in the project root folder using th
 - `API_AUTH`, api authorization to be used on `Apollo Provider`
 
 # notes
-- **Remember**
-react-native run-<"android or ios">
-npm or yarn <"command">
+- **react-native run-<"android or ios">**
+- **npm or yarn <"command">**
