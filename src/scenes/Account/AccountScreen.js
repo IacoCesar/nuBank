@@ -10,7 +10,6 @@ import Spacer from 'app/components/Spacer'
 export const AccountScreen = ({
     offers, navigation
 }) => {
-    console.log(navigation)
     return (
         <Container>
             <Content>

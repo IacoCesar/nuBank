@@ -28,11 +28,7 @@
     "react-native-simple-dialogs": "^0.3.1",
     "react-native-vector-icons": "^4.5.0",
     "react-navigation": "^1.0.3",
-    "react-redux": "^5.0.7",
     "recompose": "^0.26.0",
-    "redux": "^3.7.2",
-    "redux-observable": "^0.17.0",
-    "redux-thunk": "^2.2.0",
     "styled-components": "^3.1.6"
   },
   "devDependencies": {

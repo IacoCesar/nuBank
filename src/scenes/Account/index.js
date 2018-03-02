@@ -1,5 +1,4 @@
 import { withHandlers, withState, hoistStatics, compose, withProps, lifecycle } from 'recompose'
-import { connect } from 'react-redux'
 import { withApollo } from 'react-apollo'
 import { offers } from 'app/queries'
 import { graphql } from 'react-apollo'

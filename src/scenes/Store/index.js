@@ -1,5 +1,4 @@
 import { withHandlers, withState, hoistStatics, compose, withProps } from 'recompose'
-import { connect } from 'react-redux'
 import { withApollo } from 'react-apollo'
 import { payment } from 'app/queries'
 import { graphql } from 'react-apollo'
@@ -24,10 +23,7 @@ export default hoistStatics(
                         },
                     }).then((data) => {
                         setdataPaymentSuccess(data)
-                        console.log('Return value',data)
                         setPaymentProcess(false)
-                    }).catch((e) => {
-                        console.error('Error', e)
                     })
                 }
             }
